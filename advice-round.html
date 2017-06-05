@@ -62,7 +62,7 @@ d3.csv("advice.csv", function(error, data) {
       .attr("transform", function(d) { return "translate(" + radialPoint(d.x, d.y) + ")"; });
 
   node.append("circle")
-      .attr("r", 2.5);
+      .attr("r", 25);
 
   node.append("text")
       .attr("dy", "0.31em")
