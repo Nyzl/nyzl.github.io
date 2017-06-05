@@ -39,7 +39,7 @@ var stratify = d3.stratify()
     .parentId(function(d) { return d.id.substring(0, d.id.lastIndexOf(".")); });
 
 var tree = d3.tree()
-    .size([10 * Math.PI, 500])
+    .size([5 * Math.PI, 500])
     .separation(function(a, b) { return (a.parent == b.parent ? 1 : 2) / a.depth; });
 
 d3.csv("advice.csv", function(error, data) {
