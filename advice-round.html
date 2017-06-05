@@ -39,7 +39,7 @@ var stratify = d3.stratify()
     .parentId(function(d) { return d.id.substring(0, d.id.lastIndexOf(".")); });
 
 var tree = d3.tree()
-    .size([2 * Math.PI, 500])
+    .size([2 * Math.PI, 50000])
     .separation(function(a, b) { return (a.parent == b.parent ? 1 : 2) / a.depth; });
 
 d3.csv("advice.csv", function(error, data) {
@@ -62,7 +62,7 @@ d3.csv("advice.csv", function(error, data) {
       .attr("transform", function(d) { return "translate(" + radialPoint(d.x, d.y) + ")"; });
 
   node.append("circle")
-      .attr("r", 2500);
+      .attr("r", 25);
 
   node.append("text")
       .attr("dy", "0.31em")
