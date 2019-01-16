@@ -3,7 +3,7 @@
 <html>
   <head>
     <style type="text/css">
-    .c0{color:#004b88;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:36pt;font-family:"Open-Sans";font-style:normal}
+    .c0{color:#004b88;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:36pt;font-family:"Open-Sans";font-style:normal;text-align: center;}
 
     .c1{padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:center}
 
@@ -23,7 +23,17 @@
       <span class="c2"></span>
     </p>
     <p class="c1">
-      <span class="c0">Yes</span>
+      <span class="c0">Yes as of
+        <p class="c0" id='date'></p></span>
     </p>
+    <script>
+    function update() {
+      var datetime = new Date().toLocaleString();
+      document.getElementById("date").innerHTML = datetime;
+    }
+    setInterval(update,1000);
+
+
+    </script>
   </body>
 </html>
