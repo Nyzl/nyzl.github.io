@@ -42,7 +42,7 @@ var stratify = d3.stratify()
 var cluster = d3.cluster()
     .size([360, width / 2 - 480]);
 
-d3.csv("advisernet.csv", function(error, data) {
+d3.csv("data/advisernet.csv", function(error, data) {
   if (error) throw error;
 
   var root = stratify(data)
