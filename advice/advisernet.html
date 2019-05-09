@@ -34,6 +34,7 @@ var stratify = d3.stratify()
     .parentId(function(d) { return d.id.substring(0, d.id.lastIndexOf(".")); });
 d3.csv("data/advisernet.csv", function(error, data) {
   if (error) throw error;
+  if (!parent) throw new Error("missing: " + nodeId); 
   var root = stratify(data)
       .sum(function(d) {return d.value;})
       .sort(function(a, b) { return (a.height - b.height) || a.id.localeCompare(b.id); });
