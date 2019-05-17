@@ -42,8 +42,9 @@ var stratify = d3.stratify()
 var cluster = d3.cluster()
     .size([360, width / 2 - 480]);
 
-d3.csv("data/advice.csv", function(error, data) {
+d3.csv("data/advisernet.csv", function(error, data) {
   if (error) throw error;
+  if (!parent) throw new Error("missing: " + nodeId); 
 
   var root = stratify(data)
       .sort(function(a, b) { return a.height - b.height || a.id.localeCompare(b.id); });

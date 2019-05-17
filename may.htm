@@ -2,31 +2,61 @@
 <meta charset="utf-8">
 <html>
   <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <style type="text/css">
-    .c0{color:#004b88;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:36pt;font-family:"Open-Sans";font-style:normal}
 
-    .c1{padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:center}
+    .s0{
+      background-color:#ffffff;
+      padding:72pt 72pt 72pt 72pt}
 
-    .c2{color:#004b88;font-weight:700;text-decoration:none;vertical-align:baseline;font-size:24pt;font-family:"Open-Sans";font-style:normal}
+    .s1{
+      color:#004b88;
+      font-family:"Open-Sans";
+      font-style:normal
+      font-weight:700;
+      padding-top:0pt;
+      padding-bottom:0pt;
+      orphans:2;
+      text-align:center;
+      text-decoration:none;
+      vertical-align:baseline;
+      widows:2;}
 
-    .c3{padding-top:0pt;padding-bottom:0pt;line-height:1.15;orphans:2;widows:2;text-align:left;height:11pt}
+    .s2{
+      font-size:24pt;}
 
-    .c4{background-color:#ffffff;max-width:468pt;padding:72pt 72pt 72pt 72pt}
+    .s3{
+      font-size:36pt;}
+
+
+
+
     </style>
   </head>
 
-  <body class="c4">
-    <p class="c1">
-      <span class="c2">Is Theresa May still Prime Minister?</span>
+  <body class="s0">
+    <p class="s1">
+      <span class="s2">Is Theresa May still Prime Minister?</span>
     </p>
-    <p class="c3">
-      <span class="c2"></span>
+    <p class="s1">
     </p>
-    <p class="c1">
-      <span class="c0">Yes</span>
+    <p class="s1">
+      <span class="s3">Yes as of
+      </span>
+      <span class="s3" id='date'></span>
     </p>
     <script>
+<<<<<<< HEAD
     document.body.style.zoom="100%";
+=======
+    function update() {
+      var datetime = new Date().toLocaleString();
+      document.getElementById("date").innerHTML = datetime;
+    }
+    setInterval(update,1000);
+
+
+>>>>>>> 31a59f01a0c7ee82684b8d3acbdc896980878d18
     </script>
   </body>
 </html>
