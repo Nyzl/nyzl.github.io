@@ -40,7 +40,7 @@ var stratify = d3.stratify()
     .parentId(function(d) { return d.id.substring(0, d.id.lastIndexOf(".")); });
 
 var tree = d3.tree()
-    //.size([2 * Math.PI, 1600])
+    .size([2 * Math.PI, 1600])
     .separation(function(a, b) { return (a.parent == b.parent ? 1 : 2) / a.depth; });
 
 d3.csv("data/advisernet.csv", function(error, data) {
