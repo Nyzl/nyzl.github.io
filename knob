@@ -1,4 +1,0 @@
-
-
-
-javascript:(function(){var c=[{re:new RegExp("\\blove\\b","gmi"),subst:"knob"},{re:new RegExp("\\blove\\b","gmi"),subst:"knob"}];function a(e,g){var d,f;if("undefined"===typeof e.nodeName){return}f=e.nodeName.toLowerCase();if(-1!==["script","style"].indexOf(f)){return}if(e.nodeType===Node.ELEMENT_NODE){if(e=e.firstChild){do{d=e.nextSibling;a(e,g)}while(e=d)}}else{if(e.nodeType===Node.TEXT_NODE){e.data=g(e.data)}}}function b(d){if(typeof d==="undefined"){return}for(i in c){o=c[i];d=d.replace(o.re,o.subst)}return d}document.title=b(document.title);a(document.body,b)})();
