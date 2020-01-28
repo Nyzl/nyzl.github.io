@@ -1,3 +1,9 @@
+permalink: pretty
+
 theme: jekyll-theme-minimal
 title: Ian Ansell
 description: things about me
+
+logo: [Location of the logo]
+
+sidebar: goose
