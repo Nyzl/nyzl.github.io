@@ -1,5 +1,5 @@
 ---
-other_section: |
+sidebar: |
   And I'm some other stuff
 ---
 
