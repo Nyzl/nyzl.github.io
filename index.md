@@ -1,3 +1,8 @@
+---
+other_section: |
+  And I'm some other stuff
+---
+
 # Welcome 
 
 
