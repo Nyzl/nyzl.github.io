@@ -1,8 +1,3 @@
----
-sidebar: |
-  And I'm some other stuff
----
-
 # Welcome 
 
 
