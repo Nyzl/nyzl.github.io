@@ -1,7 +1,7 @@
 ---
 layout: post
 title: GTM multi parameter lookup tables
-post_description: blah
+post_description: Building a lookup table but will multiple variable to pull back
 excerpt_separator: <!--more-->
 ---
 # Google Tag Manager multi parameter lookup tables
