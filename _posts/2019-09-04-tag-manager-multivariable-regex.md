@@ -1,8 +1,15 @@
+---
+layout: post
+title: GTM multi parameter lookup tables
+post_description: blah
+excerpt_separator: <!--more-->
+---
 # Google Tag Manager multi parameter lookup tables
 
 ## Worst titled blog ever!
 
 We use a few User Research tools on our website and these are deployed using Google Tag Manager, dead easy. A User Researcher goes in, adds there page to a GTM regex table variable and through the magic, the tool is deployed.
+<!--more-->
 
 This is great and I was even capturing the User Researcher who had the tool up!
 
