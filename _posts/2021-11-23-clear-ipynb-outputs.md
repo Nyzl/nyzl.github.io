@@ -11,11 +11,13 @@ Committing notebooks to git is nice, but committing withoutputs can be troubleso
 Using this method you can keep the outputs local and commit notebooks that do not contain cell outputs.
 
 In you root folder for the repom you'll need 2 new files
+
 .gitattributes
 ```*
 .ipynb filter=jupyternotebook
 ```
 and
+
 .gitconfig 
 ```
 [filter "jupyternotebook"]
