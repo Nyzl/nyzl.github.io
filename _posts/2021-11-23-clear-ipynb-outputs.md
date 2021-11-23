@@ -12,11 +12,13 @@ Using this method you can keep the outputs local and commit notebooks that do no
 
 In you root folder for the repom you'll need 2 new files
 
+
 .gitattributes
 ```*
 .ipynb filter=jupyternotebook
 ```
 and
+
 
 .gitconfig 
 ```
