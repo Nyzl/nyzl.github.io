@@ -1,49 +1,19 @@
 id,value
 Alphagov_23066786,
-Demo Account_54516992,
-Digital Marketplace_49258698,
-GDS apps_220309926,
-GOV_UK - Blogs_40442074,
-www_gov_uk_26179049,
 Alphagov_23066786.Campaigns platform sta_UA-23066786-2,
-Alphagov_23066786.Campaigns platform tes_UA-23066786-1,
-Alphagov_23066786.http://getsatisfaction_UA-23066786-3,
-Alphagov_23066786.IDA Quantitative Research_UA-23066786-6,
-Alphagov_23066786.IER Voter Registration_UA-23066786-5,
-Demo Account_54516992.UA - Google Merchandis_UA-54516992-1,
-Digital Marketplace_49258698.Admin App - Digital Ma_UA-49258698-7,
-Digital Marketplace_49258698.Digital Marketplace GTM_UA-49258698-6,
-GDS apps_220309926.No UA properties for account,
-GOV_UK - Blogs_40442074.GOV_UK Blog Platform (_UA-40442074-5,
-GOV_UK - Blogs_40442074.GOV_UK Blog Platform (_UA-40442074-1,
-www_gov_uk_26179049.Accounts_UA-26179049-28,
-www_gov_uk_26179049.API use (data sent via_UA-26179049-14,
-www_gov_uk_26179049.Content Performance Ma_UA-26179049-12,
-www_gov_uk_26179049.content-api_publishing_UA-26179049-13,
-www_gov_uk_26179049.Gov_uk - Data Studio D_UA-26179049-24,
-www_gov_uk_26179049.GOV_UK apps_UA-26179049-6,
-www_gov_uk_26179049.GOV_UK Cookie banner test_UA-26179049-29,
-www_gov_uk_26179049.Gov_uk Integration Env_UA-26179049-22,
-www_gov_uk_26179049.Gov_uk Staging Environ_UA-26179049-20,
-www_gov_uk_26179049.GOV_UK Status Page_UA-26179049-25,
-www_gov_uk_26179049.GOV_UK Test property f_UA-26179049-31,
-www_gov_uk_26179049.Government Frontend Co_UA-26179049-15,
-www_gov_uk_26179049.Performance_service_go_UA-26179049-9,
-www_gov_uk_26179049.TEMP >> DI Digital Ide_UA-26179049-30,
-www_gov_uk_26179049.Transition Domains_UA-26179049-8,
-www_gov_uk_26179049.Whitehall Admin (GA)_UA-26179049-5,
-www_gov_uk_26179049.www_gov_uk_UA-26179049-1,
-www_gov_uk_26179049.www_gov_uk - direct do_UA-26179049-7,
-www_gov_uk_26179049.YouTube link test - in_UA-26179049-10,
 Alphagov_23066786.Campaigns platform sta_UA-23066786-2.Campaigns platform tes_45426676,1
+Alphagov_23066786.Campaigns platform tes_UA-23066786-1,
 Alphagov_23066786.Campaigns platform tes_UA-23066786-1.alpha_gov_uk_45426675,1
 Alphagov_23066786.Campaigns platform tes_UA-23066786-1.Ash - testing_73837276,1
 Alphagov_23066786.Campaigns platform tes_UA-23066786-1.GDS campaigns testing _53265364,1
 Alphagov_23066786.Campaigns platform tes_UA-23066786-1.IDA Test-1_73849518,1
+Alphagov_23066786.http://getsatisfaction_UA-23066786-3,
 Alphagov_23066786.http://getsatisfaction_UA-23066786-3.getsatisfaction_com/al_46280294,1
+Alphagov_23066786.IDA Quantitative Research_UA-23066786-6,
 Alphagov_23066786.IDA Quantitative Research_UA-23066786-6.All site data (Unfilte_74666176,1
 Alphagov_23066786.IDA Quantitative Research_UA-23066786-6.Ash testing (Filtered)_74810260,1
 Alphagov_23066786.IDA Quantitative Research_UA-23066786-6.Filtered profile (IP a_74806807,1
+Alphagov_23066786.IER Voter Registration_UA-23066786-5,
 Alphagov_23066786.IER Voter Registration_UA-23066786-5.cpc & referrals only_97411853,1
 Alphagov_23066786.IER Voter Registration_UA-23066786-5.Electoral Commission R_135119842,1
 Alphagov_23066786.IER Voter Registration_UA-23066786-5.English & Welsh_135127453,1
@@ -52,18 +22,23 @@ Alphagov_23066786.IER Voter Registration_UA-23066786-5.Preproduction/preview _17
 Alphagov_23066786.IER Voter Registration_UA-23066786-5.Register to vote service_87155691,1
 Alphagov_23066786.IER Voter Registration_UA-23066786-5.Test_98756165,1
 Alphagov_23066786.IER Voter Registration_UA-23066786-5.Unfiltered View_88038056,1
-Demo Account_54516992.UA - Google Merchandis_UA-54516992-1.1 Master View_92320289,1
-Demo Account_54516992.UA - Google Merchandis_UA-54516992-1.2 Test View_92324711,1
-Demo Account_54516992.UA - Google Merchandis_UA-54516992-1.3 Raw Data View_90822334,1
+Digital Marketplace_49258698,
+Digital Marketplace_49258698.Admin App - Digital Ma_UA-49258698-7,
 Digital Marketplace_49258698.Admin App - Digital Ma_UA-49258698-7.1_ DM Admin App - PROD_184204729,1
 Digital Marketplace_49258698.Admin App - Digital Ma_UA-49258698-7.2_ DM Admin App - STAGING_184237620,1
 Digital Marketplace_49258698.Admin App - Digital Ma_UA-49258698-7.3_ DM Admin App - PREVIEW_184216033,1
 Digital Marketplace_49258698.Admin App - Digital Ma_UA-49258698-7.All Web Site Data_184209273,1
 Digital Marketplace_49258698.Admin App - Digital Ma_UA-49258698-7.x_ 'Raw data' view_184422283,1
+Digital Marketplace_49258698.Digital Marketplace GTM_UA-49258698-6,
 Digital Marketplace_49258698.Digital Marketplace GTM_UA-49258698-6.All Web Site Data_150650204,1
 Digital Marketplace_49258698.Digital Marketplace GTM_UA-49258698-6.Digital Marketplace (L_152668145,1
+GDS apps_220309926,
+GDS apps_220309926.No UA properties for account,
 GDS apps_220309926.No UA properties for account.No UA views for account,1
+GOV_UK - Blogs_40442074,
+GOV_UK - Blogs_40442074.GOV_UK Blog Platform (_UA-40442074-5,
 GOV_UK - Blogs_40442074.GOV_UK Blog Platform (_UA-40442074-5.All Web Site Data_72441306,1
+GOV_UK - Blogs_40442074.GOV_UK Blog Platform (_UA-40442074-1,
 GOV_UK - Blogs_40442074.GOV_UK Blog Platform (_UA-40442074-1.Test blog' subdomain_146427089,1
 GOV_UK - Blogs_40442074.GOV_UK Blog Platform (_UA-40442074-1.1_ All Web Site (Defau_71795835,1
 GOV_UK - Blogs_40442074.GOV_UK Blog Platform (_UA-40442074-1.1_ All Web Site (no Ho_71757949,1
@@ -264,22 +239,31 @@ GOV_UK - Blogs_40442074.GOV_UK Blog Platform (_UA-40442074-1.X_ All Web Site (De
 GOV_UK - Blogs_40442074.GOV_UK Blog Platform (_UA-40442074-1.X_ All Web Site (no Ho_71796233,1
 GOV_UK - Blogs_40442074.GOV_UK Blog Platform (_UA-40442074-1.X_ All Web Site (UNFIL_71777199,1
 GOV_UK - Blogs_40442074.GOV_UK Blog Platform (_UA-40442074-1.X_ Copy of 2_ 'History_74665694,1
+
+
+www_gov_uk_26179049,
+www_gov_uk_26179049.Accounts_UA-26179049-28,
 www_gov_uk_26179049.Accounts_UA-26179049-28.All Web Site Data_232024396,1
+www_gov_uk_26179049.API use (data sent via_UA-26179049-14,
 www_gov_uk_26179049.API use (data sent via_UA-26179049-14.1_ API All web site data_159879322,1
 www_gov_uk_26179049.API use (data sent via_UA-26179049-14.Unfiltered view DO NOT_159847846,1
+www_gov_uk_26179049.Content Performance Ma_UA-26179049-12,
 www_gov_uk_26179049.Content Performance Ma_UA-26179049-12.CPM_ All Web Site Data_156086828,1
 www_gov_uk_26179049.Content Performance Ma_UA-26179049-12.CPM_ Integration_159490697,1
 www_gov_uk_26179049.Content Performance Ma_UA-26179049-12.CPM_ Production_159505853,1
 www_gov_uk_26179049.Content Performance Ma_UA-26179049-12.CPM_ Staging_159486809,1
 www_gov_uk_26179049.Content Performance Ma_UA-26179049-12.Unfiltered View DO NOT_156077959,1
+www_gov_uk_26179049.content-api_publishing_UA-26179049-13,
 www_gov_uk_26179049.content-api_publishing_UA-26179049-13.1_ API Docs All web si_159862707,1
 www_gov_uk_26179049.content-api_publishing_UA-26179049-13.Unfiltered view DO NOT_159880044,1
+www_gov_uk_26179049.Gov_uk - Data Studio D_UA-26179049-24,
 www_gov_uk_26179049.Gov_uk - Data Studio D_UA-26179049-24.GDS - All Dashboards_173465512,1
 www_gov_uk_26179049.Gov_uk - Data Studio D_UA-26179049-24.GOV_UK Main Dashboard_173438761,1
 www_gov_uk_26179049.Gov_uk - Data Studio D_UA-26179049-24.GOV_UK Overview_173669026,1
 www_gov_uk_26179049.Gov_uk - Data Studio D_UA-26179049-24.GOV_UK Product Health _173481371,1
 www_gov_uk_26179049.Gov_uk - Data Studio D_UA-26179049-24.GOV_UK Yes / No Survey_173420339,1
 www_gov_uk_26179049.Gov_uk - Data Studio D_UA-26179049-24.iForms – Datastudio_173569315,1
+www_gov_uk_26179049.GOV_UK apps_UA-26179049-6,
 www_gov_uk_26179049.GOV_UK apps_UA-26179049-6.All apps (filtered - o_110042000,1
 www_gov_uk_26179049.GOV_UK apps_UA-26179049-6.All apps (unfiltered)_86065982,1
 www_gov_uk_26179049.GOV_UK apps_UA-26179049-6.Collections Publisher_110277823,1
@@ -298,24 +282,35 @@ www_gov_uk_26179049.GOV_UK apps_UA-26179049-6.Specialist publisher_95705456,1
 www_gov_uk_26179049.GOV_UK apps_UA-26179049-6.Transition_110264652,1
 www_gov_uk_26179049.GOV_UK apps_UA-26179049-6.Travel advice publisher_86249385,1
 www_gov_uk_26179049.GOV_UK apps_UA-26179049-6.Whitehall Publisher_86186851,1
+www_gov_uk_26179049.GOV_UK Cookie banner test_UA-26179049-29,
 www_gov_uk_26179049.GOV_UK Cookie banner test_UA-26179049-29.Cookie Banner Test All_232652219,1
+www_gov_uk_26179049.Gov_uk Integration Env_UA-26179049-22,
 www_gov_uk_26179049.Gov_uk Integration Env_UA-26179049-22.GOV_UK Integration - B_185409407,1
 www_gov_uk_26179049.Gov_uk Integration Env_UA-26179049-22.GOV_UK Integration - M_173362183,1
 www_gov_uk_26179049.Gov_uk Integration Env_UA-26179049-22.GOV_UK Integration - R_185141187,1
+www_gov_uk_26179049.Gov_uk Staging Environ_UA-26179049-20,
 www_gov_uk_26179049.Gov_uk Staging Environ_UA-26179049-20.GOV_UK Staging - Main _171905337,1
 www_gov_uk_26179049.Gov_uk Staging Environ_UA-26179049-20.GOV_UK Staging - Raw Data_185119515,1
+www_gov_uk_26179049.GOV_UK Status Page_UA-26179049-25,
 www_gov_uk_26179049.GOV_UK Status Page_UA-26179049-25.All Web Site Data_176289011,1
+www_gov_uk_26179049.GOV_UK Test property f_UA-26179049-31,
 www_gov_uk_26179049.GOV_UK Test property f_UA-26179049-31.Raw data do NOT filter_258652685,1
+www_gov_uk_26179049.Government Frontend Co_UA-26179049-15,
 www_gov_uk_26179049.Government Frontend Co_UA-26179049-15.Main view_160335849,1
 www_gov_uk_26179049.Government Frontend Co_UA-26179049-15.Unfiltered view_160310444,1
+www_gov_uk_26179049.Performance_service_go_UA-26179049-9,
 www_gov_uk_26179049.Performance_service_go_UA-26179049-9.All Web Site Data (Unf_94199166,1
 www_gov_uk_26179049.Performance_service_go_UA-26179049-9.Reporting View (Filtered)_94339975,1
+www_gov_uk_26179049.TEMP >> DI Digital Ide_UA-26179049-30,
 www_gov_uk_26179049.TEMP >> DI Digital Ide_UA-26179049-30.All Web Site Data_253719054,1
+www_gov_uk_26179049.Transition Domains_UA-26179049-8,
 www_gov_uk_26179049.Transition Domains_UA-26179049-8.All Web Site Data_93717734,1
 www_gov_uk_26179049.Transition Domains_UA-26179049-8.Ash test View 1_94146379,1
 www_gov_uk_26179049.Transition Domains_UA-26179049-8.Ash test View 2_94149440,1
 www_gov_uk_26179049.Transition Domains_UA-26179049-8.Reporting (by Hostname)_93718631,1
+www_gov_uk_26179049.Whitehall Admin (GA)_UA-26179049-5,
 www_gov_uk_26179049.Whitehall Admin (GA)_UA-26179049-5.All Web Site Data_72476558,1
+www_gov_uk_26179049.www_gov_uk_UA-26179049-1,
 www_gov_uk_26179049.www_gov_uk_UA-26179049-1.1a_ GOV_UK - Main Profile_53872948,1
 www_gov_uk_26179049.www_gov_uk_UA-26179049-1.1b_ GOV_UK - Back Up_98416905,1
 www_gov_uk_26179049.www_gov_uk_UA-26179049-1.1d_ GOV_UK - Big Query_87773428,1
@@ -439,6 +434,7 @@ www_gov_uk_26179049.www_gov_uk_UA-26179049-1.Z_ Dev and Heroku_79563201,1
 www_gov_uk_26179049.www_gov_uk_UA-26179049-1.Z_ GOV_UK and planforb_143014125,1
 www_gov_uk_26179049.www_gov_uk_UA-26179049-1.Z_ Planforbritain (Ent_143010741,1
 www_gov_uk_26179049.www_gov_uk_UA-26179049-1.Z_ Planforbritain (UNF_143052412,1
+www_gov_uk_26179049.www_gov_uk - direct do_UA-26179049-7,
 www_gov_uk_26179049.www_gov_uk - direct do_UA-26179049-7.UA - 1_ GOV_UK (Entire_89436128,1
 www_gov_uk_26179049.www_gov_uk - direct do_UA-26179049-7.UA - 1_ GOV_UK (Entire_96076611,1
 www_gov_uk_26179049.www_gov_uk - direct do_UA-26179049-7.UA - 2_ Depts and poli_89492346,1
@@ -450,4 +446,5 @@ www_gov_uk_26179049.www_gov_uk - direct do_UA-26179049-7.UA - GOV_UK site hostn_
 www_gov_uk_26179049.www_gov_uk - direct do_UA-26179049-7.UA - Preview environment_98410579,1
 www_gov_uk_26179049.www_gov_uk - direct do_UA-26179049-7.UA - Site search (enti_99931267,1
 www_gov_uk_26179049.www_gov_uk - direct do_UA-26179049-7.X_ ACC dimension test_102675033,1
+www_gov_uk_26179049.YouTube link test - in_UA-26179049-10,
 www_gov_uk_26179049.YouTube link test - in_UA-26179049-10.All Web Site Data_106651833,1
